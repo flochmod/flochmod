@@ -126,6 +126,11 @@
 .cell:nth-child(2) {
     flex: 2;
 }
+    
+        body {
+            overflow: hidden;
+            height: 100vh;
+        }    
 
         body, html {
             margin: 0;
